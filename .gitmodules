@@ -1,0 +1,8 @@
+[submodule "framework"]
+	path = framework
+	url = https://github.com/umicom-foundation/umicom-framework.git
+	branch = main
+[submodule "applications/tms"]
+	path = applications/tms
+	url = https://github.com/umicom-foundation/umicom-tms-module.git
+	branch = main
